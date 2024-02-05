@@ -1,5 +1,6 @@
 import java.awt.Frame;
 
+// using association method by creating object 
 public class BasicFrame {
 
     public BasicFrame(String t) {
